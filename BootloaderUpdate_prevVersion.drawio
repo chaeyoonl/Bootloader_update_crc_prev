@@ -1,1 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T02:16:54.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="A-ccR37lgQfeQGexTb8t" version="20.5.1" type="github"><diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">7Vtdk6MoFP01eZwuQfHjcTrbPfuyVVvVVbszj0RJYo1KipBJZ3/9YsSooMZ2NLGT5KXlgoj3nANXuD0z5/H7N4Y3679oQKIZNIL3mfnHDEJgGa74k1oOmcWxpGHFwkA2Kgxv4X9EGg1p3YUB2VYackojHm6qRp8mCfF5xYYZo/tqsyWNqk/d4BXRDG8+jnTrv2HA19IKDKOo+JOEq7V8tItkxQL7P1eM7hL5vIQmJKuJcd6NbLpd44DuSybzZWbOGaU8u4rf5yRK3Zp7LLvvtaH2NGRGEt7lBtOFCw8sEAJgERhL54vs4ReOdtINcqD8kPtF9CAgEIXnNY8jYQPiUrzIJq3fcsz4G8c8rV+GUTSnEWXHG03j+Esbc0Z/klLNcilrjl4jQdFp5p20yqdx6MvrCC9I9Hxyc97T0dHisTThrzgOo5R4/xAW4ARLs2QZgLJcNzochatE2HzhQyIqn4OQCX6FNDVu6S6F8Fl3dO45wjh5L5mk478RGhPODqJJXmtKEhzyMsrK+4JteZN1iWe5DUt+r049F0CLC4l1R9yRhvtX8cq/Qn7Q8K9itF+HnLxtsJ/W7sVMUOUFZr70ObR0RizFz29nxEQ4MADe0KribeYTXQlvAGsAt8cA3H4AfmnAT+BeBHA/IHaAA9e2MHAw/mLqE3kg1jtZpIyv6YomOHoprGVcyXvIv5euf6SoPEGUFhMxtu9K+Ucn1EgSfE2X6nQEG5JkFomX20qTjnjnuEZkydtQFfM680mDVhwZfWC2IryhjZe1SX3ayg1GIix0Vo0xBlW281D22Mq2FGVD45rKtoZRtvHkoLK4y8oGFVk/oRsRttdB2PbQwj7eKpyDD6UGGxomfFvq+e/UUDDOdZW1BBkKZ7IeCwadhtaPVKB9vSDRgu7PEaqyVDiohVDOPTEqj/smsFZ4j7Vi7LXC8aYU9ucPfyA+HuIIXhNxdSJHvefxTzgfQ2wufIgM7C8NGzjBtEP3ptGWxDkXTsFhIqiporjdh3GEj1CckeYgm2oZnPlGKPg4jEMqzEMVgVmevnPm1W2dneL0QRWWy/sGJdbE0NYYyK3RnOazyYRA7mNB/OCC2Dhtdd8ZA1UB27p+R1sgobX0bDcAhkecwF5Y+cZY7yOPVJO3deAxBuSuArmrx0SjHXaok4931/O11sbsECO5k4mRfleu93tC+fsidqajYQB02O9IxE0BVWvQBa8WdDWM9hF0XXAFtozqtsQlgy6dADWz9j3LF+rybQpUJyBf+JDvxeWL3Ct+M6mj1z+alwzHREM/D7p2cfR6bHCHm1VKmldNlhcwUA1wjoVGQK792+fsYfHUJ98uZ3R1odLop769ATuzu/jJECtyhWZaRkE/NO0OaDpDo9nrDN9UZoJ8ZhjqDF+nTvs30vnMkCKxy5l4YleRxFLOYQG9WdXl3AiNwiqNNtpxonqIkb2IvKvg00fpiZTvA+gpuePn6OyNTef2b4YPJDrBxkQnNYVxejNoPz6jz7XmjZKsis6sP/eC8/Xyj3SgB8td7Jq6eDOZZjmKlw18+iPdnocyTP55FWp4V1BfLwFd3R2yW5H+PFt7jeFv57CyVzrShcJKU8lhR4ay3dAQVp7tyHSV+DR7W62jIbKUnduj2oNpk2SaeytMq/8I6v+lXBNxNpFxdKIhhWigL9GUjkxvKKKJYvHf3Vnz4r/nzZf/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T02:46:57.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="O73RhXqifHAjVn7daCa9" version="20.5.1" type="github">
+  <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
+    <mxGraphModel dx="865" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="342.13" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="eKGAcMH3AnmFuZBXyHEG-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357.13" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-3" value="Check PF11 Pin interrupt&lt;br&gt;(in 1 sec)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.13" y="200" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-4" value="Check Uart interrupt" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254.63" y="320" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-5" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;endFill=0;" edge="1" parent="1" source="eKGAcMH3AnmFuZBXyHEG-3" target="eKGAcMH3AnmFuZBXyHEG-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="582.13" y="220" as="sourcePoint" />
+            <mxPoint x="632.13" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-6" value="" style="endArrow=open;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="eKGAcMH3AnmFuZBXyHEG-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367.13" y="280" as="sourcePoint" />
+            <mxPoint x="352.13" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="212.13" y="350" />
+              <mxPoint x="212.13" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-7" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356.65" y="380" as="sourcePoint" />
+            <mxPoint x="356.65" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-8" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.13" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-9" value="Check PF12 Pin is High" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="317.5" width="220" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-10" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;endFill=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKGAcMH3AnmFuZBXyHEG-3" target="eKGAcMH3AnmFuZBXyHEG-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264.63" y="360" as="sourcePoint" />
+            <mxPoint x="362.13" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-11" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467.13" y="204" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-12" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212.13" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-13" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.13" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-14" value="Confirm START" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291.13" y="430" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-15" value="Confirm HEAD&lt;br&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;br&gt;사용할 SLOT 선택&lt;br&gt;&lt;/span&gt;(SLOT0 혹은 SLOT1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279.88" y="480" width="147.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-16" value="Confirm DATA&lt;br&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;br&gt;(첫 데이터 write시에)&lt;br&gt;configuration Flash memory update&lt;br&gt;&lt;br&gt;해당 SLOT address에 (.bin file) data write&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="580" width="242.25" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-17" value="Confirm END&lt;br&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;br&gt;Data wrtie to configuration Flash memory&lt;br&gt;(data : new version 여부, crc, app szie, valid app 여부)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="710" width="312.13" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-18" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356.6300000000001" y="460" as="sourcePoint" />
+            <mxPoint x="356.6300000000001" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-19" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;endFill=0;entryX=0.51;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eKGAcMH3AnmFuZBXyHEG-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356.6300000000001" y="550" as="sourcePoint" />
+            <mxPoint x="357.22800000000007" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-20" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;endFill=0;entryX=0.512;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eKGAcMH3AnmFuZBXyHEG-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="358.125" y="670" as="sourcePoint" />
+            <mxPoint x="358.595" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-21" value="wrtie Prev app (in SLOT Flash memory) to application Flash memroy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="443" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759.7099999999998" y="442.5" as="targetPoint" />
+            <mxPoint x="759.7099999999998" y="382.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-24" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-25" value="wrtie Prev app (in SLOT Flash memory) to application Flash memroy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="443" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-26" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;endFill=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKGAcMH3AnmFuZBXyHEG-9" target="eKGAcMH3AnmFuZBXyHEG-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="477.1300000000001" y="245" as="sourcePoint" />
+            <mxPoint x="770" y="327.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKGAcMH3AnmFuZBXyHEG-27" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="317.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
